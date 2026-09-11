@@ -1,0 +1,7 @@
+.git
+.venv
+__pycache__
+.env
+artifacts
+examples/*.pdf
+examples/*.docx
