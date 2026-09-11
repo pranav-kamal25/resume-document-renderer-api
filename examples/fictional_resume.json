@@ -1,0 +1,40 @@
+{
+  "filename_stem": "Taylor_Rivera_Resume",
+  "include_docx": true,
+  "content": {
+    "header": {
+      "name": "Taylor Rivera",
+      "location": "Example City, CA",
+      "email": "taylor.rivera@example.com",
+      "phone": "555-010-2048",
+      "linkedin": "linkedin.com/in/taylor-rivera-example"
+    },
+    "education": {
+      "school_line": "Example State University | B.S. Computer Science | Expected May 2027",
+      "gpa_text": "3.80",
+      "coursework": ["Algorithms", "Databases", "Software Engineering"]
+    },
+    "experiences": [
+      {
+        "heading": "Software Engineering Intern | Example Systems | Jun 2025 - Aug 2025",
+        "bullets": [
+          "Built internal Python tools that automated repeatable data-validation steps for a fictional product team.",
+          "Worked with engineers to document API behavior and add regression tests."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "heading": "Inventory Forecast Dashboard | Personal Project",
+        "bullets": [
+          "Created a sample dashboard that visualized fictional inventory trends using Python and CSV inputs."
+        ]
+      }
+    ],
+    "certifications": [],
+    "skills": [
+      {"label": "Programming", "items": ["Python", "SQL", "JavaScript"]},
+      {"label": "Tools", "items": ["FastAPI", "Git", "Docker"]}
+    ]
+  }
+}
